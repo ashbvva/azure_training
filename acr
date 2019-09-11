@@ -1,0 +1,35 @@
+az acr create --resource-group aur-rg --name aruContainerRegistry --sku basic
+
+{
+  "adminUserEnabled": false,
+  "creationDate": "2019-09-11T06:28:45.826913+00:00",
+  "id": "/subscriptions/1833b6fa-935e-4acb-9e15-680bde8c6483/resourceGroups/aur-rg/providers/Microsoft.ContainerRegistry/registries/aruContainerRegistry",
+  "location": "eastus",
+  "loginServer": "arucontainerregistry.azurecr.io",
+  "name": "aruContainerRegistry",
+  "networkRuleSet": null,
+  "policies": {
+    "quarantinePolicy": {
+      "status": "disabled"
+    },
+    "retentionPolicy": {
+      "days": 7,
+      "lastUpdatedTime": null,
+      "status": "disabled"
+    },
+    "trustPolicy": {
+      "status": "disabled",
+      "type": "Notary"
+    }
+  },
+  "provisioningState": "Succeeded",
+  "resourceGroup": "aur-rg",
+  "sku": {
+    "name": "Basic",
+    "tier": "Basic"
+  },
+  "status": null,
+  "storageAccount": null,
+  "tags": {},
+  "type": "Microsoft.ContainerRegistry/registries"
+}
