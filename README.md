@@ -15,3 +15,5 @@ kubectl apply -f azure-vote.yaml<br/>
 kubectl get service azure-vote-front --watch<br/>
 
 az webapp show --resource-group aru-appservice-rg --name aru-appservice --query possibleOutboundIpAddresses --output tsv<br/>
+
+https://docs.microsoft.com/en-us/learn/browse/?products=azure&roles=developer&resource_type=learning%20path
