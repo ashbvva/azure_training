@@ -1,0 +1,47 @@
+
+# 1. Developing Azure Infrastructure as a Service Compute Solutions (10-15%)
+The sub-categories of this module includes
+Creating containerized solutions
+Implementing batch jobs by using Azure Batch Services
+Implementing solutions that use virtual machines
+
+# 2. Develop Azure Platform as a Service Compute Solutions (20-25%)
+As the percentage indicates, this module is very crucial in your exam, so is your AZ-203 exam preparation. There are 4 sub-modules in this module as shown below.
+
+Creating Azure app service web apps
+Creating Azure app service API apps
+Creating Azure app service mobile apps
+Implementing Azure functions
+
+# 3. Developing for Azure storage (15-20%)
+There are 4 sub-topics under this module. You can find them below.
+
+Developing solutions that use blob storage
+Developing solutions that use a relational database
+Developing solutions that use Cosmos DB storage
+Develop solutions that use storage tables
+
+# 4. Implementing Azure security (10-15%)
+Even this module seems shorter, this module has its own importance in AZ-203 exam preparation. Its sub-modules are listed below.
+
+Implementing Access Control
+Implementing Authentication
+Implementing Secure Data Solutions
+
+# 5. Monitoring, troubleshooting, and optimizing Azure solutions (15-20%)
+Its sub-areas are given below
+
+Instrumenting solutions to support monitoring and logging
+Integrating caching and content delivery within solutions
+Developing code to support scalability of apps and services
+
+# 6. Connect to and expend Azure Services and Third-party Services (20-25%)
+This module is another important module for your AZ-203 exam. It examines candidates’ proficiency in the following areas
+
+Establishing API Gateways
+Integrating Azure search within solutions
+Developing an app service logic app
+
+=======================================================================================================================================
+
+

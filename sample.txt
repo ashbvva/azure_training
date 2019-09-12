@@ -1,0 +1,13 @@
+https://nvtrainingmaterial.blob.core.windows.net/poc/ecommerce.zip
+
+load app to VS
+build
+publish
+	- new App Service
+	- new Hosting Plan
+	
+	
+	
+Create SQL DB	
+	sqladmin
+	dbadmin@123
