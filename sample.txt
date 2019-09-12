@@ -1,13 +1,21 @@
 https://nvtrainingmaterial.blob.core.windows.net/poc/ecommerce.zip
 
-load app to VS
-build
-publish
+1. load app to VS
+	build
+	publish
 	- new App Service
 	- new Hosting Plan
 	
 	
 	
-Create SQL DB	
+2. Create SQL DB	
 	sqladmin
 	dbadmin@123
+	
+	Server=tcp:relecloudconcerts-dbserver.database.windows.net,1433;Initial Catalog=relecloudconcerts-sql-db;Persist Security Info=False;User ID={your_username};Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+	
+	Server=tcp:relecloudconcerts-dbserver.database.windows.net,1433;Initial Catalog=relecloudconcerts-sql-db;Persist Security Info=False;User ID=sqladmin;Password=dbadmin@123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+
+3. App server configuration -> add connection configuration
