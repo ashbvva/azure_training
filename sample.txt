@@ -19,3 +19,8 @@ https://nvtrainingmaterial.blob.core.windows.net/poc/ecommerce.zip
 
 
 3. App server configuration -> add connection configuration
+
+4. Configure authentication
+	Azure Active Directory B2C
+	
+	arurelecloudconcerts.onmicrosoft.com
