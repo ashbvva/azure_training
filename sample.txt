@@ -24,3 +24,11 @@ https://nvtrainingmaterial.blob.core.windows.net/poc/ecommerce.zip
 	Azure Active Directory B2C
 	
 	arurelecloudconcerts.onmicrosoft.com
+	
+5. AD B2D registering
+	signin with openidconnect
+	
+6. Userflow
+	Create signup & signin - B2C_1_SignUpOrIn
+	Create Profile - B2C_1_EditProfile
+	Password Reset - B2C_1_ResetPassword
