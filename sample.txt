@@ -32,3 +32,10 @@ https://nvtrainingmaterial.blob.core.windows.net/poc/ecommerce.zip
 	Create signup & signin - B2C_1_SignUpOrIn
 	Create Profile - B2C_1_EditProfile
 	Password Reset - B2C_1_ResetPassword
+	
+7. in Original profile map values
+	- Tenant
+	- ClientId
+	- SignInSignUp
+	- ResetPassword
+	- EditProfile
