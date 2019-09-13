@@ -1,9 +1,9 @@
 # azure_training
 
-http://microsoftazurepass.com
-https://portal.azure.com/#home
+http://microsoftazurepass.com <br/>
+https://portal.azure.com/#home <br/>
 https://github.com/Azure-Samples/batch-python-quickstart
-
+<br/>
 
 CLI
 az login <br/>
